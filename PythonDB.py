@@ -6,3 +6,6 @@ mycursor.execute("select * from student")
 #result = mycursor.fetchall()
 result = mycursor.fetchone()
 print(result)
+
+print("Hello")
+print("hai")
